@@ -4,3 +4,4 @@ test:
   stage: test
   script:
     - echo "Hello world"
+    - echo "test commit"
